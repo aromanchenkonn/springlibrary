@@ -1,4 +1,4 @@
-package ru.javabegin.training.springlibrary.objects;
+package com.springlibrary.objects;
 
 public class Book{
 

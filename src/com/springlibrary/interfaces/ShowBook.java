@@ -1,6 +1,6 @@
-package ru.javabegin.training.springlibrary.interfaces;
+package com.springlibrary.interfaces;
 
-import ru.javabegin.training.springlibrary.objects.Book;
+import com.springlibrary.objects.Book;
 
 public interface ShowBook {
 
